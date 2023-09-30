@@ -17,3 +17,5 @@ ja listataan ne hahmon ja hahmoluokan lisäksi.
 **Edit** - kun haluat muokata listalla olevaa riviä
 
 **Delete** - kun haluat poistaa listalla olevan rivin
+
+Tiedot tallennetaan MongoDB-tietokantaan
