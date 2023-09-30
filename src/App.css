@@ -1,21 +1,20 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #fff
-  }
-  
-  .container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-    background-color: #1b1b1b; /* Tumma taustaväri */
-    color: #fff; /* Valkoinen teksti */
-  }
-  
-  .navbar {
-    background-color: #333;
-    color: #fff;
-    padding: 10px;
-  }
-  
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #1b1b1b; /* Tumma taustaväri */
+  color: #fff; /* Valkoinen teksti */
+}
+
+.navbar {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
